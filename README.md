@@ -1,7 +1,7 @@
 <h1>My Profile</h1>
 A personal portfolio website built with HTML, CSS & JavaScript. It’s a simple, responsive site that introduces who I am, showcases my projects, and links to my GitHub and contact info.
 
-View it here: https://softestware456.github.io/myprofile/
+View it here: https://daniellejbs.github.io/myprofile/
 
 <h2>Key Sections</h2>
 <ul>
